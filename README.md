@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [https://shaker-ahamed-portfolio.netlify.app/](http://shaker-ahamed-portfolio.netlify.app/)
-* ✉️  You can contact me at [ahamedshaker@gmail.com](mailto:ahamedshaker7@gmail.com)
+* ✉️  You can contact me at [ahamedshaker7@gmail.com](mailto:ahamedshaker7@gmail.com)
 * 🚀  I'm currently working on [Layerhub SRL](http:////github.com/layerhub-io)
 * 🧠  I'm learning Next js, SQL and Postgrass
 * 🤝  I'm open to collaborating on any kind of MVP project
