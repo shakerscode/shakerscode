@@ -7,10 +7,10 @@ Full Stack Web Developer
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [https://shaker-ahamed-portfolio.netlify.app/](http://shaker-ahamed-portfolio.netlify.app/)
 * ✉️  You can contact me at [ahamedshaker7@gmail.com](mailto:ahamedshaker7@gmail.com)
-* 🚀  I'm currently working on [Layerhub SRL](http:////github.com/layerhub-io)
+* 🚀  I'm currently working on [Stealth Company]
 * 🧠  I'm learning Next js, SQL and Postgrass
 * 🤝  I'm open to collaborating on any kind of MVP project
-* ⚡  I'm a super hero. Please don't tell any one!
+* ⚡  I'm a superhero. Please don't tell anyone!
 
 <a href="https://www.github.com/shakerscode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shakerscode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ShakerAhamed7" target="_blank" rel="noreferrer"><img
