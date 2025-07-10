@@ -1,49 +1,333 @@
-[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaker Ahamed
-=====================================================================================================================================
-
-Full Stack Web Developer
-------------------------
-
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [https://shaker-ahamed-portfolio.netlify.app/](http://shaker-ahamed-portfolio.netlify.app/)
-* ✉️  You can contact me at [ahamedshaker7@gmail.com](mailto:ahamedshaker7@gmail.com)
-* 🚀  I'm currently working on [Stealth Company]
-* 🧠  I'm learning Next js, SQL and Postgrass
-* 🤝  I'm open to collaborating on any kind of MVP project
-* ⚡  I'm a superhero. Please don't tell anyone!
-
-<a href="https://www.github.com/shakerscode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shakerscode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ShakerAhamed7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ShakerAhamed7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+<div align="center">
+  
+# 👋 Hi, I'm Shaker Ahamed
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=680&lines=FFrontend+Developer+%7C+Full+Stack+Enthusiast;3%2B+Years+of+Experience;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://shaker-ahamed-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shaker-ahamed/"><img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahamedshaker7@gmail.com"><img src="https://img.shields.io/badge/Email-45B7D1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/shakerscode"><img src="https://img.shields.io/badge/GitHub-96CEB4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e87aabb9fd07c884"><img src="https://img.shields.io/badge/Upwork-FFEAA7?style=for-the-badge&logo=upwork&logoColor=black" alt="Upwork" /></a>
+  <a href="https://drive.google.com/file/d/1aVj4AeM3zTJo_kihJFKUzfCnsfllFyqe/view?usp=sharing&usp=embed_facebook"><img src="https://img.shields.io/badge/Resume-A29BFE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.codepen.io/Shaker-Ahamed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://codesandbox.io/u/ahamedshaker7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/shakerscode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/code_writer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dribbble.com/shakerTasfi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/shaker.ahamed.07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/shakerscode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/shakertasfi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shaker-ahamed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@ahamedshaker7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/18093501/shaker-ahamed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/ShakerAhamed7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@shakertasfi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+## 🚀 About Me
 
-### Badges
+I'm a passionate **Frontend Developer** with **3+ years** of hands-on experience in creating modern, scalable web applications. I specialize in **React.js & Next.js** ecosystem but also excel in full-stack development when needed. I believe in writing clean, maintainable code and staying updated with the latest technologies. I'd like to be a beast in Frontend development.
 
-<b>My GitHub Stats</b>
+```javascript
+const shakerAhamed = {
+  location: "Noakhali, Bangladesh 🇧🇩",
+  currentRole: "Frontend Developer",
+  specialization: "React.js & Next.js Ecosystem",
+  currentlyWorkingOn: "Dashboard Applications & Web Scrapers",
+  currentlyLearning: ["Docker", "MySQL", "Python", "OOP", "Competitive Programming"],
+  availableForFreelance: true,
+  workStyle: "Remote Professional",
+  
+  skills: {
+    frontend: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3"],
+    styling: ["Tailwind CSS", "Material-UI", "Chakra UI", "Styled Components"],
+    stateManagement: ["Zustand", "Redux", "Redux Toolkit", "Context API"],
+    backend: ["Node.js", "Express.js", "Next.js API", "FastAPI (Python)"],
+    database: ["PostgreSQL", "MongoDB", "Supabase", "NeonDB", "Prisma ORM"],
+    tools: ["Git", "GitHub", "Figma", "Postman", "Vercel", "Docker"],
+    languages: ["JavaScript", "TypeScript", "Python", "C", "C++"]
+  },
+  
+  achievements: {
+    projectsCompleted: "35+",
+    dashboardsBuilt: "10+",
+    yearsOfExperience: 3,
+    recommendationLetters: 1,
+    clientSatisfaction: "100%"
+  }
+};
+```
 
-<a href="http://www.github.com/shakerscode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shakerscode&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 💼 Professional Journey
 
-<a href="http://www.github.com/shakerscode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shakerscode&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Stealth_Startup-Jun_2024--Present-FF6B6B?style=for-the-badge" alt="Current Role" /><br/>
+      <b>Frontend Developer</b><br/>
+      <sub> North Carolina, USA (Remote) • Present </sub><br/>
+      <small>React, Next.js, Full-Stack Development</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Everlab_Inc-Oct_2023--Jun_2024-4ECDC4?style=for-the-badge" alt="Everlab Inc" /><br/>
+      <b>Contract Frontend Developer</b><br/>
+      <sub>California, USA (Remote) • 9 Months</sub><br/>
+      <small>Operating Systems & Solutions</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/LayerHub_SRL-Sep_2022--Oct_2023-45B7D1?style=for-the-badge" alt="LayerHub SRL" /><br/>
+      <b>Frontend Developer</b><br/>
+      <sub>Peru (Remote) • 1+ Year</sub><br/>
+      <small>Canva-like Editors & Design Tools</small>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/shakerscode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakerscode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🎓 Education & Learning
 
-### Support Me
+<div align="center">
+  <a href="https://web.programming-hero.com/home"><img src="https://img.shields.io/badge/Programming_Hero-Web_Development-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Programming Hero" /></a>
+  <a href="https://phitron.io/"><img src="https://img.shields.io/badge/Phitron-C%2FC%2B%2B_Problem_Solving-4ECDC4?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Phitron" /></a>
+</div>
 
-<ul style="list-style-type: none; margin: 0;">
+## 🛠️ Tech Stack
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ahamedshaku"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<div align="center">
 
-</ul>
-](http://www.educationboardresults.gov.bd/?sr=1&et=2&exam=ssc&year=2025&board=comilla&roll=195397&reg=2211286580&value_a=3&value_b=2&value_s=5&btnSubmit=Submit)
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-4ECDC4?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-45B7D1?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-96CEB4?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFEAA7?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-A29BFE?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FF6B6B?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-4ECDC4?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-45B7D1?style=for-the-badge&logo=chakraui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-96CEB4?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### State Management
+![Redux](https://img.shields.io/badge/Redux-FFEAA7?style=for-the-badge&logo=redux&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-A29BFE?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-4ECDC4?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-45B7D1?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-96CEB4?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFEAA7?style=for-the-badge&logo=postgresql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-A29BFE?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-FF6B6B?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-4ECDC4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-45B7D1?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-96CEB4?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FFEAA7?style=for-the-badge&logo=postman&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-A29BFE?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF6B6B?style=for-the-badge&logo=docker&logoColor=white)
+
+### Cloud & Database Services
+![Supabase](https://img.shields.io/badge/Supabase-4ECDC4?style=for-the-badge&logo=supabase&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-45B7D1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-96CEB4?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏥 Health Checker</h3>
+        <div align="center">
+          <a href="https://health-checker-nine.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-FF6B6B?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>YouTube Channel Health Analyzer</strong></p>
+          <p>Full-stack app that scrapes YouTube data, analyzes channel health, and provides detailed insights with scoring system</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Web_Scraping-4ECDC4?style=flat" />
+            <img src="https://img.shields.io/badge/Database-45B7D1?style=flat" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 CelebStats</h3>
+        <div align="center">
+          <a href="https://celebstats.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-4ECDC4?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>Celebrity Social Media Analytics</strong></p>
+          <p>Cross-platform analytics showing celebrity account statistics and engagement metrics</p>
+          <p>
+            <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+            <img src="https://img.shields.io/badge/Analytics-FF6B6B?style=flat" />
+            <img src="https://img.shields.io/badge/Multi_Platform-96CEB4?style=flat" />
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎬 VidSum AI</h3>
+        <div align="center">
+          <a href="https://vidsum-ai-ten.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-45B7D1?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>AI-Powered Video Summarizer</strong></p>
+          <p>Intelligent YouTube video summarization with AI-driven insights and key point extraction</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/AI_Integration-FF6B6B?style=flat" />
+            <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat&logo=youtube&logoColor=white" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🚀 Trendy Nation</h3>
+        <div align="center">
+          <a href="https://beast-nation.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-96CEB4?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>Influencer Marketing Platform</strong></p>
+          <p>Modern creator economy platform connecting brands with influencers seamlessly</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/Full_Stack-4ECDC4?style=flat" />
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🏢 Enterprise Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏭 Everlab Operating System</h3>
+        <div align="center">
+          <a href="https://os.everlab.co" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_System-FFEAA7?style=for-the-badge&color=orange" alt="Live System" />
+          </a>
+          <p><strong>Warehouse Management System</strong></p>
+          <p>Built comprehensive frontend for barcode scanning, inventory management, and order fulfillment system</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/Enterprise-A29BFE?style=flat" />
+          </p>
+          <p><em>🏆 Received recommendation letter for outstanding performance</em></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📈 Multiple Dashboards</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/8%2B_Dashboards-Built-A29BFE?style=for-the-badge" alt="Dashboards Built" />
+          <p><strong>React & Next.js Dashboards</strong></p>
+          <p>Developed 8+ production-ready dashboards with modern UI/UX and best practices</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Best_Practices-FF6B6B?style=flat" />
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <a href="https://github.com/shakerscode?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakerscode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&title_color=4ECDC4&text_color=45B7D1&icon_color=96CEB4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakerscode&layout=compact&langs_count=8&theme=radical&border_color=FF6B6B&title_color=4ECDC4&text_color=45B7D1"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakerscode&theme=radical&border=FF6B6B&stroke=4ECDC4&ring=45B7D1&fire=96CEB4&currStreakLabel=FFEAA7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shakerscode&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 🎯 Current Focus & Goals
+
+- 🔭 **Current Work**: Building advanced dashboards and web scrapers at a stealth startup
+- 🌱 **Learning Journey**: Diving deeper into Docker, MySQL, Python, and OOP concepts
+- 🏆 **Competitive Programming**: Improving problem-solving skills and algorithmic thinking
+- 💡 **Frontend Mastery**: Continuously improving React.js & Next.js expertise
+- 🚀 **Backend Evolution**: Enhancing full-stack capabilities with modern technologies
+- 📚 **Growth Mindset**: Always staying updated with the latest web development trends
+
+## 😎 What Makes Me Different
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📖_Doc_Reader-FF6B6B?style=for-the-badge" /><br/>
+        <b>Documentation First</b><br/>
+        <sub>I believe in understanding before implementing</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌱_Continuous_Learner-4ECDC4?style=for-the-badge" /><br/>
+        <b>Growth Mindset</b><br/>
+        <sub>Every day is a learning opportunity</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏠_Remote_Professional-45B7D1?style=for-the-badge" /><br/>
+        <b>Remote Expert</b><br/>
+        <sub>3+ years of successful remote work</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakerscode&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  
+I'm always excited to connect with fellow developers, work on interesting projects, and help bring innovative ideas to life! Whether you need a frontend specialist or a full-stack solution, I'm here to help.
+
+<p align="center">
+  <a href="https://linkedin.com/in/shaker-ahamed"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahamedshaker7@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/shakerscode"><img src="https://img.shields.io/badge/GitHub-Code_Portfolio-45B7D1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  
+</p>
+
+### 💼 Currently Available
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✅_Available_for_Freelance-96CEB4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available" />
+  <img src="https://img.shields.io/badge/🌍_Remote_Work_Specialist-FFEAA7?style=for-the-badge&logo=world&logoColor=black" alt="Remote Work" />
+  <img src="https://img.shields.io/badge/⚡_Quick_Response-A29BFE?style=for-the-badge&logo=lightning&logoColor=white" alt="Quick Response" />
+</div>
+
+  <p align="center">
+    <sub>⭐ If you find my work interesting, don't forget to star my repositories!</sub><br/>
+    <sub>🚀 Let's build something amazing together!</sub>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakerscode&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
+</div>
